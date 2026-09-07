@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 ## Additional
-gabarito.py
+.vscode/

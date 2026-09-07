@@ -1,4 +1,4 @@
-<h1 align="center">  ⚙️  Automation: Product Registering in CRUD  ⚙️  </h1>
+# ⚙️ Automation: Product Registering in CRUD ⚙️
 
 An automation project that reads a CSV file and registers products in a system. The libraries used in this project were:
 - Pandas: for handling the CSV;
@@ -6,20 +6,24 @@ An automation project that reads a CSV file and registers products in a system. 
 
 ## 🗺️ Steps
 
-### 🖥️ Open browser
-![Open browser](readme-assets/open-browser.gif)
+### Open Browser
 
-### 🌐 Open website
-![Open website](readme-assets/open-website.gif)
+![Open browser](asset/readme/open-browser.gif)
 
-### 🔑 Login
-![Login](readme-assets/login.gif)
+### Open Website
 
-### 📝 Register products
-![Register Products](readme-assets/register.gif)
+![Open website](asset/readme/open-website.gif)
 
-## 📊 End Result
+### Login
+
+![Login](asset/readme/login.gif)
+
+### Register Products
+
+![Register Products](asset/readme/register.gif)
+
+## End Result
 
 You can see the registered products in the table below the form:
 
-![Registered products](readme-assets/table-of-products.png)
+![Registered products](asset/readme/table-of-products.png)
